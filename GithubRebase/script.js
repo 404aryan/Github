@@ -9,3 +9,5 @@ const footer = "footer added";
 console.log(footer);
 const payment ="Integerate payment gateway";
 console.log(payment);
+const upi = "Added UPI payment method";
+console.log(upi);
