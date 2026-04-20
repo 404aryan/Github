@@ -13,3 +13,7 @@ const upi = "Added UPI payment method";
 console.log(upi);
 
 console.log("Rebase is done");
+
+/// i am fixing som bug
+
+console.log("bug fixed");
